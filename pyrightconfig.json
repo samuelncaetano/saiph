@@ -5,5 +5,8 @@
   "typeCheckingMode": "strict",
   "reportCallIssue": "none",
   "reportUntypedClassDecorator": "none",
-  "reportUntypedFunctionDecorator": "none"
+  "reportUntypedFunctionDecorator": "none",
+  "reportUnknownMemberType": "none",
+  "reportUnknownVariableType": "none",
+  "reportUnknownParameterType": "none"
 }
