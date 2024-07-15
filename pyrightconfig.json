@@ -1,0 +1,9 @@
+{
+  "include": ["src/**/*.py"],
+  "exclude": ["src/**/__init__.py", "tests/**/*.py"],
+  "reportMissingTypeStubs": true,
+  "typeCheckingMode": "strict",
+  "reportCallIssue": "none",
+  "reportUntypedClassDecorator": "none",
+  "reportUntypedFunctionDecorator": "none"
+}
